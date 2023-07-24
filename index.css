@@ -16,6 +16,10 @@ body
     justify-content: center;
     background-color: white;
 }
+.btn-press
+{
+    opacity: 30%;
+}
 .container
 {
     border-radius: 1rem;
